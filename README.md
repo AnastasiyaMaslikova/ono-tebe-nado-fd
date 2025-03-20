@@ -1,1 +1,0 @@
-https://github.com/AnastasiyaMaslikova/ono-tebe-nado-fd
