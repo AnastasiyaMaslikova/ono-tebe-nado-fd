@@ -251,11 +251,6 @@ footer {
   min-height: 180px;
 }
 
-/*.footer_address {
-  justify-self: start;
-  max-width: 265px;
-}*/
-
 .footer__menu_list {
   display: flex;
   align-self: center;
